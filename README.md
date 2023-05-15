@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on NCCSOFT.
 - 📫 How to reach me: 5 niche 54,alley 79 Di Tich street, Dai Dinh, Dong Ky, Tu Son city, Bac Ninh
+- Facebook: https://www.facebook.com/duong.long.5059/
 - Phone number: 0334929977.
 
 <!---
